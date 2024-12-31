@@ -9,7 +9,7 @@ import os
 import pathlib
 
 from credentials.keys.lg_cloud import get_gclient
-from l_bucket import GStorage
+from GCStorage import GStorage
 
 from google.cloud import bigquery
 from google.cloud import storage
