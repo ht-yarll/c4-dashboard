@@ -4,8 +4,8 @@ from google.cloud import bigquery
 import pandas as pd
 
 class GBigQuery:
-    def __init__(self, storage_client):
-        self.client = storage_client
+    def __init__(self, bigquery_client):
+        self.client = bigquery_client
 
     def up_to_bigquery(self, file, destination_table, project_id, if_exists='replace'):
         job_config = bigquery.LoadJobConfig()
