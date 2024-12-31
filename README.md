@@ -14,10 +14,10 @@ this is a study project with data analysis focus. The objective is to use google
 - [x] ~**Set up Google Cloud Permissions and Access** for Cloud Storage and BigQuery.~
 - [x] ~**Create a script** to retrieve data from a folder and upload it to Cloud Storage.~
 - [x] ~**Write a script** to fetch the data from Cloud Storage, process it with Python, and upload it to a BigQuery dataset.~
-- [] **Use SQL** to query and transform the dataset in BigQuery, ensuring the data is properly prepared for visualization.
-- [] **Connect the data** to Looker Studio to build an interactive dashboard.
-- [] **Design and organize the dashboard** using Figma or a similar tool to enhance its visual appeal and usability.
-- [] **Finalize the dashboard**, adding all necessary components, and create a comprehensive presentation to showcase it effectively.
+- [ ] **Use SQL** to query and transform the dataset in BigQuery, ensuring the data is properly prepared for visualization.
+- [ ] **Connect the data** to Looker Studio to build an interactive dashboard.
+- [ ] **Design and organize the dashboard** using Figma or a similar tool to enhance its visual appeal and usability.
+- [ ] **Finalize the dashboard**, adding all necessary components, and create a comprehensive presentation to showcase it effectively.
 
 
 ## Key Takeaways
